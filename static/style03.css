@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  background-color:#505050;
+  font-size: 21px;
+  margin: 0;
+}
+
+
+/*background:#4d4d4d;
+  color:#f0b7b7;*/
+
+*{
+  box-sizing:border-box;
+}
+
+
+.row {
+  display:flex;
+  background-color: #505050;
+  margin: 5px 10px;
+  
+}
+
+.column {
+  flex: 50%;
+  
+  padding: 10px;
+  height: 300px;
+  /* background-color: #ffaa; */
+  color:#f0b7b7;
+}
+
+/*h2 {
+  background-color: lightblue;
+}*/
