@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="static/style02.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <!--<form action="/2" method="post">-->
+  <!--<p><h1>To Do List</h1></p>-->
+  <p class="te">2023-11-20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monday</p>
+  
+  <p>Lectures&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no<!--<input type="checkbox" id="01" name="no" value="Yes"--> </p>  
+    </p>
+  
+  <p>walk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no<!--<input type="checkbox" id="02" name="no" value="Yes"--> </p>
+    </p>
+  
+  <p>writting&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="03" name="Yes" value="Yes"--> </p>
+    </p>
+  <p>team meeting&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="04" name="Yes" value="Yes"--> </p>
+    </p>
+  
+  <p>swiming&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no<!--<input type="checkbox" id="05" name="no" value="Yes"--> </p>
+    
+  <p class="flections">You beauty MAXWELL!</p>
+
+  <P><a href="/"></a></P>
+  
+</form>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="static/style02.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <!--<form action="/2" method="post">-->
+  <!--<p><h1>To Do List</h1></p>-->
+  <p class="te">2023-09-18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monday</p>
+  <p>coding&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="01" name="Yes" value="Yes"--> </p>  
+    </p>
+  <p>brain storming&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="02" name="Yes" value="Yes"--> </p>
+    </p>
+  <p>reading&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="03" name="Yes" value="Yes"--> </p>
+    </p>
+  <p>playing tennis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no<!--<input type="checkbox" id="04" name="no" value="Yes"--> </p>
+    </p>
+  <p>family T&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="05" name="Yes" value="Yes"--> </p>
+    <p class="flections">No Doubt! great day.</p>
+  </form>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="static/style02.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <!--<form action="/2" method="post">-->
+  <!--<p><h1>To Do List</h1></p>-->
+  <p class="te">2023-10-18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wednesday</p>
+  <p>code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="01" name="Yes" value="Yes"--> </p>  
+    </p>
+  <p>read&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="02" name="Yes" value="Yes"--> </p>
+    </p>
+  <p>write&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no<!--<input type="checkbox" id="03" name="no" value="Yes"--> </p>
+    </p>
+  <p>play&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="04" name="Yes" value="Yes"--> </p>
+    </p>
+  <p>eat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="05" name="Yes" value="Yes"--> </p>
+    <p class="flections">It was a winder full day.</p>
+
+  <P><a href="/"></a></P>
+  </form>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="static/style02.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+  <!--<form action="/2" method="post">-->
+  <!--<p><h1>To Do List</h1></p>-->
+  <p class="te">2023-11-23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursday</p>
+  
+  <p>Walk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no<!--<input type="checkbox" id="01" name="no" value="Yes"--> </p>  
+    </p>
+  
+  <p>Drive&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="02" name="Yes" value="Yes"--> </p>
+    </p>
+  
+  <p>Shower&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="03" name="Yes" value="Yes"--> </p>
+    </p>
+  <p>Breakfast&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="04" name="Yes" value="Yes"--> </p>
+    </p>
+  
+  <p>Code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no<!--<input type="checkbox" id="05" name="no" value="Yes"--> </p>
+    
+  <p class="flections">A bad one!</p>
+
+  <P><a href="/"></a></P>
+  
+</form>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="static/style02.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <!--<form action="/2" method="post">-->
+  <!--<p><h1>To Do List</h1></p>-->
+  <p class="te">2023-09-23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Saturday</p>
+  <p>Home work&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="01" name="Yes" value="Yes"--> </p>  
+    </p>
+  <p>reading&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="02" name="Yes" value="Yes"--> </p>
+    </p>
+  <p>writting&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no<!--<input type="checkbox" id="03" name="no" value="Yes"--> </p>
+    </p>
+  <p>playing tennis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="04" name="Yes" value="Yes"--> </p>
+    </p>
+  <p>code review&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="05" name="Yes" value="Yes"--> </p>
+    <p class="flections">i am so much happy today.</p>
+
+  <P><a href="/"></a></P>
+  </form>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="static/style02.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+  <!--<form action="/2" method="post">-->
+  <!--<p><h1>To Do List</h1></p>-->
+  <p class="te">2024-04-30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuesday</p>
+  
+  <p>Eating&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="01" name="Yes" value="Yes"--> </p>  
+    </p>
+  
+  <p>playinng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="02" name="Yes" value="Yes"--> </p>
+    </p>
+  
+  <p>Music&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="03" name="Yes" value="Yes"--> </p>
+    </p>
+  <p>Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no<!--<input type="checkbox" id="04" name="no" value="Yes"--> </p>
+    </p>
+  
+  <p>Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="05" name="Yes" value="Yes"--> </p>
+    
+  <p class="flections">Java is Fun</p>
+
+  <P><a href="/"></a></P>
+  
+</form>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="static/style02.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+  <!--<form action="/2" method="post">-->
+  <!--<p><h1>To Do List</h1></p>-->
+  <p class="te">2023-11-21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuesday</p>
+  
+  <p>hi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="01" name="Yes" value="Yes"--> </p>  
+    </p>
+  
+  <p>hello&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no<!--<input type="checkbox" id="02" name="no" value="Yes"--> </p>
+    </p>
+  
+  <p>by&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="03" name="Yes" value="Yes"--> </p>
+    </p>
+  <p>goood&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no<!--<input type="checkbox" id="04" name="no" value="Yes"--> </p>
+    </p>
+  
+  <p>happy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="05" name="Yes" value="Yes"--> </p>
+    
+  <p class="flections">hi!</p>
+
+  <P><a href="/"></a></P>
+  
+</form>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="static/style02.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <!--<form action="/2" method="post">-->
+  <!--<p><h1>To Do List</h1></p>-->
+  <p class="te">2023-11-18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Saturday</p>
+  <p>Running 1 mile&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="01" name="Yes" value="Yes"--> </p>  
+    </p>
+  <p>Braekfast&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="02" name="Yes" value="Yes"--> </p>
+    </p>
+  <p>Code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="03" name="Yes" value="Yes"--> </p>
+    </p>
+  <p>Cd Review&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="04" name="Yes" value="Yes"--> </p>
+    </p>
+  <p>Commit in repo.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no<!--<input type="checkbox" id="05" name="no" value="Yes"--> </p>
+    <p class="flections">Wonderfull! Day enjoyed it.</p>
+
+  <P><a href="/"></a></P>
+  </form>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="static/style02.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <!--<form action="/2" method="post">-->
+  <!--<p><h1>To Do List</h1></p>-->
+  <p class="te">2023-09-28&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursday</p>
+  <p>meditation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="01" name="Yes" value="Yes"--> </p>  
+    </p>
+  <p>Reading reports&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="02" name="Yes" value="Yes"--> </p>
+    </p>
+  <p>Meeting&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="03" name="Yes" value="Yes"--> </p>
+    </p>
+  <p>Luch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="04" name="Yes" value="Yes"--> </p>
+    </p>
+  <p>code review&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="05" name="Yes" value="Yes"--> </p>
+    <p class="flections">Enjoyed reading reports, but overall performance wasn't good.</p>
+
+  <P><a href="/"></a></P>
+  </form>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="static/style02.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <!--<form action="/2" method="post">-->
+  <!--<p><h1>To Do List</h1></p>-->
+  <p class="te">2023-09-27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wednesday</p>
+  <p>meditate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="01" name="Yes" value="Yes"--> </p>  
+    </p>
+  <p>reading/F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no<!--<input type="checkbox" id="02" name="no" value="Yes"--> </p>
+    </p>
+  <p>coding&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="03" name="Yes" value="Yes"--> </p>
+    </p>
+  <p>overview dev ops&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="04" name="Yes" value="Yes"--> </p>
+    </p>
+  <p>sending reports&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="05" name="Yes" value="Yes"--> </p>
+    <p class="flections">Oh! a busy one. Had a good time working.</p>
+
+  <P><a href="/"></a></P>
+  </form>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="static/style02.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <!--<form action="/2" method="post">-->
+  <!--<p><h1>To Do List</h1></p>-->
+  <p class="te">2023-11-19&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sunday</p>
+  <p>Runnning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no<!--<input type="checkbox" id="01" name="no" value="Yes"--> </p>  
+    </p>
+  <p>Recite Quran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no<!--<input type="checkbox" id="02" name="no" value="Yes"--> </p>
+    </p>
+  <p>Code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="03" name="Yes" value="Yes"--> </p>
+    </p>
+  <p>Eat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="04" name="Yes" value="Yes"--> </p>
+    </p>
+  <p>Play&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no<!--<input type="checkbox" id="05" name="no" value="Yes"--> </p>
+    <p class="flections">Good One! I enjoyed it completely.</p>
+
+  <P><a href="/"></a></P>
+  </form>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="static/style02.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <!--<form action="/2" method="post">-->
+  <!--<p><h1>To Do List</h1></p>-->
+  <p class="te">2023-09-25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monday</p>
+  <p>hello&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="01" name="Yes" value="Yes"--> </p>  
+    </p>
+  <p>hi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no<!--<input type="checkbox" id="02" name="no" value="Yes"--> </p>
+    </p>
+  <p>by&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no<!--<input type="checkbox" id="03" name="no" value="Yes"--> </p>
+    </p>
+  <p>Goood by&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="04" name="Yes" value="Yes"--> </p>
+    </p>
+  <p>night gooD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes<!--<input type="checkbox" id="05" name="Yes" value="Yes"--> </p>
+    <p class="flections">happy Sleep!</p>
+
+  <P><a href="/"></a></P>
+  </form>
+</body>
+</html>
